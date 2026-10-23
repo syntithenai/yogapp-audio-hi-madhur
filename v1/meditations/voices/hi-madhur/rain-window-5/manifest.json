@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 146,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "एक आरामदायक सीट ढूंढें, या यदि बेहतर लगे तो लेट जाएं।",
+      "file": "c001.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 2,
+      "text": "हाथों को आराम दें.",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "आँखें नरम करें, या उन्हें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 4,
+      "text": "धीरे-धीरे सांस अंदर लें.",
+      "file": "c004.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 5,
+      "text": "और एक लंबी सांस छोड़ें.",
+      "file": "c005.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 6,
+      "text": "एक शांत बरसात के दिन खिड़की के पास बैठने की कल्पना करें।",
+      "file": "c006.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 7,
+      "text": "गिलास ठंडा. बाहर की दुनिया नरम.",
+      "file": "c007.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 8,
+      "text": "[विराम:30]",
+      "file": "c008.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 9,
+      "text": "बिना किसी कहानी के बारिश सुनें।",
+      "file": "c009.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 10,
+      "text": "छोटे नल. कभी-कभी भारी गिरावट आती है।",
+      "file": "c010.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 11,
+      "text": "[विराम:36]",
+      "file": "c011.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 12,
+      "text": "स्वच्छ नम हवा की गंध महसूस करें।",
+      "file": "c012.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 13,
+      "text": "धूसर प्रकाश देखें, सौम्य और अविचल।",
+      "file": "c013.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 14,
+      "text": "[विराम:30]",
+      "file": "c014.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 15,
+      "text": "बारिश में कहीं जाना नहीं है.",
+      "file": "c015.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 16,
+      "text": "रुकने की अनुमति.",
+      "file": "c016.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 17,
+      "text": "[विराम:36]",
+      "file": "c017.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 18,
+      "text": "गिलास पर पानी की लय के साथ सांस लें।",
+      "file": "c018.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 19,
+      "text": "[विराम:45]",
+      "file": "c019.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 20,
+      "text": "तंत्रिका तंत्र को संकेत लेने दें: नरम हो जाएं।",
+      "file": "c020.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 21,
+      "text": "[विराम:36]",
+      "file": "c021.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 22,
+      "text": "एक और आसान साँस लें.",
+      "file": "c022.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 23,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c023.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 24,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c024.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 25,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c025.ogg",
+      "durationSec": 6.36
+    }
+  ]
+}

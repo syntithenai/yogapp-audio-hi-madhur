@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 194,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "[विराम:28]",
+      "file": "c007.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 9,
+      "text": "[विराम:28]",
+      "file": "c009.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "[विराम:36]",
+      "file": "c012.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 13,
+      "text": "अपने आप को एक पर्वत के रूप में कल्पना करें।",
+      "file": "c013.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 14,
+      "text": "आधार चौड़ा. चरम शांति. अपार धैर्य.",
+      "file": "c014.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 15,
+      "text": "[विराम:43]",
+      "file": "c015.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 16,
+      "text": "पहाड़ पर मौसम की चाल चलती है।",
+      "file": "c016.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 17,
+      "text": "सूरज। हवा। बादल। आंधी।",
+      "file": "c017.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 18,
+      "text": "पहाड़ बाकी है.",
+      "file": "c018.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 19,
+      "text": "[विराम:57]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "विचार और मनोदशाएँ मौसम हैं।",
+      "file": "c020.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 21,
+      "text": "तुम पर्वत हो.",
+      "file": "c021.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 22,
+      "text": "[विराम:57]",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "अपने शरीर के आधार को जड़वत महसूस करें।",
+      "file": "c023.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 24,
+      "text": "बिना तनाव के रीढ़ की हड्डी में ऊंचाई महसूस करें।",
+      "file": "c024.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 25,
+      "text": "[विराम:43]",
+      "file": "c025.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 26,
+      "text": "पहाड़ के चारों ओर आकाश की तरह साँस लें।",
+      "file": "c026.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 27,
+      "text": "[विराम:71]",
+      "file": "c027.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 28,
+      "text": "नियमित। उतावली. पर्याप्त।",
+      "file": "c028.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 29,
+      "text": "[विराम:90]",
+      "file": "c029.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 30,
+      "text": "[विराम:43]",
+      "file": "c030.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 31,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c031.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 32,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c032.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 33,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c033.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 34,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c034.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 35,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c035.ogg",
+      "durationSec": 7.44
+    }
+  ]
+}
