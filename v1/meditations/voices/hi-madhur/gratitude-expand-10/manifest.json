@@ -1,0 +1,238 @@
+{
+  "id": "gratitude-expand-10",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 210,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "[विराम:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 9,
+      "text": "[विराम:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "[विराम:34]",
+      "file": "c012.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 13,
+      "text": "एक छोटे ठोस उत्पाद से शुरुआत करें।",
+      "file": "c013.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 14,
+      "text": "इसे पकड़ो। धन्यवाद.",
+      "file": "c014.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 15,
+      "text": "[विराम:40]",
+      "file": "c015.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 16,
+      "text": "एक दूसरा। कोई व्यक्ति, स्थान या आराम।",
+      "file": "c016.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 17,
+      "text": "धन्यवाद।",
+      "file": "c017.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 18,
+      "text": "[विराम:40]",
+      "file": "c018.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 19,
+      "text": "एक तिहाई. आपके शरीर के बारे में कुछ जो आज काम करता है।",
+      "file": "c019.ogg",
+      "durationSec": 11.52
+    },
+    {
+      "index": 20,
+      "text": "धन्यवाद।",
+      "file": "c020.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 21,
+      "text": "[विराम:40]",
+      "file": "c021.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 22,
+      "text": "उन लोगों के लिए विस्तार करें जो दयालु रहे हैं, भले ही संक्षेप में।",
+      "file": "c022.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 23,
+      "text": "[विराम:54]",
+      "file": "c023.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 24,
+      "text": "जिस स्थान पर आप हैं, उस स्थान तक विस्तार करें। आश्रय। वायु। मैदान।",
+      "file": "c024.ogg",
+      "durationSec": 15.696
+    },
+    {
+      "index": 25,
+      "text": "[विराम:54]",
+      "file": "c025.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 26,
+      "text": "यदि कृतज्ञता कठिन लगती है, तो प्रकट होने के प्रयास के लिए धन्यवाद दें।",
+      "file": "c026.ogg",
+      "durationSec": 10.824
+    },
+    {
+      "index": 27,
+      "text": "वह मायने रखता है.",
+      "file": "c027.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 28,
+      "text": "[विराम:40]",
+      "file": "c028.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 29,
+      "text": "उत्पन्न हुई किसी भी गर्मी में आराम करें।",
+      "file": "c029.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 30,
+      "text": "या इरादे में ही आराम करो.",
+      "file": "c030.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 31,
+      "text": "[विराम:90]",
+      "file": "c031.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 32,
+      "text": "[विराम:40]",
+      "file": "c032.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 33,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c033.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 34,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c034.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 35,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c035.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 36,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c036.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 37,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c037.ogg",
+      "durationSec": 7.44
+    }
+  ]
+}

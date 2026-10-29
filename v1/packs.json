@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "hi-madhur.zip", "bytes": 75096421, "sha256": "11e8625e9f71cd5932ea758b4c8f93a94c244b1f41b9cb760c0904b49b60076c"}
+  ]
+}

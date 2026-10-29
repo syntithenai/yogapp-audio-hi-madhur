@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 202,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "नींद के अभ्यास में आपका स्वागत है।",
+      "file": "c000.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 1,
+      "text": "लेट जाओ। अँधेरे को अपना दोस्त बनाओ.",
+      "file": "c001.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 2,
+      "text": "आप अंत से पहले सो सकते हैं। यही सफलता है.",
+      "file": "c002.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 3,
+      "text": "[विराम:22]",
+      "file": "c003.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 4,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c004.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 5,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c005.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 6,
+      "text": "[विराम:22]",
+      "file": "c006.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 7,
+      "text": "माथा छोड़ें.",
+      "file": "c007.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 8,
+      "text": "[विराम:18]",
+      "file": "c008.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 9,
+      "text": "आंखें छोड़ें.",
+      "file": "c009.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 10,
+      "text": "[विराम:18]",
+      "file": "c010.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 11,
+      "text": "जबड़े और जीभ को छोड़ें।",
+      "file": "c011.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 12,
+      "text": "[विराम:22]",
+      "file": "c012.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 13,
+      "text": "कंधे पिघल जाते हैं.",
+      "file": "c013.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 14,
+      "text": "[विराम:22]",
+      "file": "c014.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 15,
+      "text": "भुजाएँ भारी. हाथ खुले.",
+      "file": "c015.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 16,
+      "text": "[विराम:22]",
+      "file": "c016.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 17,
+      "text": "छाती मुलायम. पेट मुलायम.",
+      "file": "c017.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 18,
+      "text": "[विराम:22]",
+      "file": "c018.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 19,
+      "text": "कूल्हे भारी.",
+      "file": "c019.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 20,
+      "text": "[विराम:22]",
+      "file": "c020.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 21,
+      "text": "पैर भारी. पैर भारी.",
+      "file": "c021.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 22,
+      "text": "[विराम:27]",
+      "file": "c022.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 23,
+      "text": "पूरा शरीर बिस्तर में धँसा हुआ।",
+      "file": "c023.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 24,
+      "text": "[विराम:36]",
+      "file": "c024.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 25,
+      "text": "दूर के यातायात जैसे विचार.",
+      "file": "c025.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 26,
+      "text": "आप उनका अनुसरण न करें.",
+      "file": "c026.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 27,
+      "text": "[विराम:45]",
+      "file": "c027.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 28,
+      "text": "शांत सांस लें.",
+      "file": "c028.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 29,
+      "text": "[विराम:45]",
+      "file": "c029.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 30,
+      "text": "गहरा. नरम. और धीमा।",
+      "file": "c030.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 31,
+      "text": "[विराम:67]",
+      "file": "c031.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 32,
+      "text": "ख़त्म करने को कुछ नहीं.",
+      "file": "c032.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 33,
+      "text": "[विराम:54]",
+      "file": "c033.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 34,
+      "text": "आराम करना सुरक्षित.",
+      "file": "c034.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 35,
+      "text": "[विराम:89]",
+      "file": "c035.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 36,
+      "text": "सोने के लिए सुरक्षित.",
+      "file": "c036.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 37,
+      "text": "[विराम:112]",
+      "file": "c037.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 38,
+      "text": "यदि आप अभी भी जाग रहे हैं तो सांस छोड़ते हुए आराम करते रहें।",
+      "file": "c038.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 39,
+      "text": "[विराम:89]",
+      "file": "c039.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 40,
+      "text": "शुभ रात्रि।",
+      "file": "c040.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 41,
+      "text": "[विराम:67]",
+      "file": "c041.ogg",
+      "durationSec": 3.84
+    }
+  ]
+}

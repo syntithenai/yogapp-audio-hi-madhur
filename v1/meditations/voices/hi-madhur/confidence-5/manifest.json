@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 175,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "एक आरामदायक सीट ढूंढें, या यदि बेहतर लगे तो लेट जाएं।",
+      "file": "c001.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 2,
+      "text": "हाथों को आराम दें.",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "आँखें नरम करें, या उन्हें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 4,
+      "text": "धीरे-धीरे सांस अंदर लें.",
+      "file": "c004.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 5,
+      "text": "और एक लंबी सांस छोड़ें.",
+      "file": "c005.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 6,
+      "text": "बैठने की हड्डियों, या पैरों को महसूस करें।",
+      "file": "c006.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 7,
+      "text": "आपके नीचे एक स्थिर आधार।",
+      "file": "c007.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 8,
+      "text": "[विराम:22]",
+      "file": "c008.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 9,
+      "text": "रीढ़ की हड्डी को सख्त किए बिना लंबा करें।",
+      "file": "c009.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 10,
+      "text": "कोमल चेहरा. नरम पेट. मजबूत केंद्र.",
+      "file": "c010.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 11,
+      "text": "[विराम:22]",
+      "file": "c011.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 12,
+      "text": "चुपचाप इन वाक्यांशों को आज़माएँ, या बस सुनें।",
+      "file": "c012.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 13,
+      "text": "जो मिलना मेरा है, उसे मैं पूरा कर सकता हूं।",
+      "file": "c013.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 14,
+      "text": "[विराम:22]",
+      "file": "c014.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 15,
+      "text": "मुझे अपने बनने में जल्दबाजी करने की जरूरत नहीं है।",
+      "file": "c015.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 16,
+      "text": "[विराम:22]",
+      "file": "c016.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 17,
+      "text": "मुझे अपने अगले ईमानदार कदम पर भरोसा है।",
+      "file": "c017.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 18,
+      "text": "[विराम:28]",
+      "file": "c018.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 19,
+      "text": "आत्मविश्वास को सीने में गर्माहट के रूप में लें, कवच के रूप में नहीं।",
+      "file": "c019.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 20,
+      "text": "[विराम:28]",
+      "file": "c020.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 21,
+      "text": "अपने आप को एक सामान्य चुनौती को स्थिरता के साथ संभालते हुए देखें।",
+      "file": "c021.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 22,
+      "text": "[विराम:33]",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "श्वास पर लौटें।",
+      "file": "c023.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 24,
+      "text": "नियमित। पर्याप्त।",
+      "file": "c024.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 25,
+      "text": "[विराम:28]",
+      "file": "c025.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 26,
+      "text": "एक और आसान साँस लें.",
+      "file": "c026.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 27,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c027.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 28,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c028.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 29,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c029.ogg",
+      "durationSec": 6.36
+    }
+  ]
+}

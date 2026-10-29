@@ -1,0 +1,316 @@
+{
+  "id": "anxiety-ease-10",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 284,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 7,
+      "text": "[विराम:20]",
+      "file": "c007.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 9,
+      "text": "[विराम:20]",
+      "file": "c009.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "[विराम:25]",
+      "file": "c012.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 13,
+      "text": "चिंता अभी भी यहाँ हो सकती है. इसकी अनुमति है.",
+      "file": "c013.ogg",
+      "durationSec": 11.064
+    },
+    {
+      "index": 14,
+      "text": "हम इससे नहीं लड़ रहे हैं. हम शरीर से मित्रता कर रहे हैं।",
+      "file": "c014.ogg",
+      "durationSec": 12.192
+    },
+    {
+      "index": 15,
+      "text": "[विराम:25]",
+      "file": "c015.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 16,
+      "text": "पैरों को धीरे से फर्श पर दबाएं।",
+      "file": "c016.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 17,
+      "text": "फर्श को पीछे की ओर दबाते हुए महसूस करें।",
+      "file": "c017.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 18,
+      "text": "[विराम:25]",
+      "file": "c018.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 19,
+      "text": "तीन चीज़ों के नाम बताइए जिन्हें आप बंद आँखों के पीछे या हल्की नज़र से देख सकते हैं।",
+      "file": "c019.ogg",
+      "durationSec": 13.032
+    },
+    {
+      "index": 20,
+      "text": "अँधेरा। रोशनी। पलकों का आकार.",
+      "file": "c020.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 21,
+      "text": "[विराम:25]",
+      "file": "c021.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 22,
+      "text": "तीन संवेदनाओं के नाम बताइए।",
+      "file": "c022.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 23,
+      "text": "कपड़े। तापमान। साँस।",
+      "file": "c023.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 24,
+      "text": "[विराम:25]",
+      "file": "c024.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 25,
+      "text": "चार तक सांस लें।",
+      "file": "c025.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 26,
+      "text": "दो के लिए रुकें.",
+      "file": "c026.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 27,
+      "text": "छह रन पर आउट.",
+      "file": "c027.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 28,
+      "text": "[विराम:20]",
+      "file": "c028.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 29,
+      "text": "दोबारा।",
+      "file": "c029.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 30,
+      "text": "[विराम:25]",
+      "file": "c030.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 31,
+      "text": "एक हाथ छाती या पेट पर रखें।",
+      "file": "c031.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 32,
+      "text": "हाथ के नीचे हलचल महसूस करें।",
+      "file": "c032.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 33,
+      "text": "धीरे से कहो: अभी, मैं साँस ले रहा हूँ।",
+      "file": "c033.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 34,
+      "text": "[विराम:30]",
+      "file": "c034.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 35,
+      "text": "यदि मन आगे की ओर दौड़ता है, तो आपकी रक्षा करने की कोशिश के लिए उसे धन्यवाद दें।",
+      "file": "c035.ogg",
+      "durationSec": 12.768
+    },
+    {
+      "index": 36,
+      "text": "फिर इस सांस पर वापस लौटें।",
+      "file": "c036.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 37,
+      "text": "[विराम:41]",
+      "file": "c037.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 38,
+      "text": "चेहरा स्कैन करें. नरम करना.",
+      "file": "c038.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 39,
+      "text": "हाथों को स्कैन करें. नरम करना.",
+      "file": "c039.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 40,
+      "text": "[विराम:30]",
+      "file": "c040.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 41,
+      "text": "लंबी साँस छोड़ने की लय में आराम करें।",
+      "file": "c041.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 42,
+      "text": "[विराम:76]",
+      "file": "c042.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 43,
+      "text": "आपने तंत्रिका तंत्र को व्यापक किनारा दिया है।",
+      "file": "c043.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 44,
+      "text": "[विराम:41]",
+      "file": "c044.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 45,
+      "text": "[विराम:30]",
+      "file": "c045.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 46,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c046.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 47,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c047.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 48,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c048.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 49,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c049.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 50,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c050.ogg",
+      "durationSec": 7.44
+    }
+  ]
+}
